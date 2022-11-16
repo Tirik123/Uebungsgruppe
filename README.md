@@ -1,2 +1,2 @@
 # Uebungsgruppe
-Übungsgruppe Einführung in die Informatik
+Übungsgruppe Einführung in die Programmierung
